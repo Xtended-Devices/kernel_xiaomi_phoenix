@@ -33,7 +33,7 @@ fi
 KERNEL_DEFCONFIG=phoenix_defconfig
 ANYKERNEL3_DIR=$PWD/AnyKernel3/
 KERNELDIR=$PWD/
-FINAL_KERNEL_ZIP=Alza-v1.0-phoenix.zip
+FINAL_KERNEL_ZIP=Alza-KSU-v1.5-phoenix.zip
 export PATH="${PWD}/clang/bin:${PATH}"
 export ARCH=arm64
 export SUBARCH=arm64
